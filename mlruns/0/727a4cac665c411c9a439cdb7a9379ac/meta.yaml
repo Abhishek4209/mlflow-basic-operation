@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ml_flow_test/mlruns/0/727a4cac665c411c9a439cdb7a9379ac/artifacts
+end_time: 1709442526007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 727a4cac665c411c9a439cdb7a9379ac
+run_name: bouncy-frog-69
+run_uuid: 727a4cac665c411c9a439cdb7a9379ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709442519029
+status: 3
+tags: []
+user_id: Abhi
